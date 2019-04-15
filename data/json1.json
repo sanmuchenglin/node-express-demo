@@ -1,0 +1,18 @@
+{
+  "data": {
+    "children": [
+      {
+        "data": {
+          "id": 42,
+          "title": "Confusion about Flux and Relay"
+        }
+      },
+      {
+        "data": {
+          "id": 500,
+          "title": "Creating a Simple Application Using React JS and Flux Architecture"
+        }
+      }
+    ]
+  }
+}
